@@ -9,4 +9,4 @@ Urdu couplets.
 ## Screenshots
 Input Screen        |  Output
 :-------------------------:|:-------------------------:
-![](input.png)  |  ![](output.png)
+![](https://raw.githubusercontent.com/Chashm-e-Afreen/Meezan-ul-Ashaar/main/input.png)  |  ![](https://raw.githubusercontent.com/Chashm-e-Afreen/Meezan-ul-Ashaar/main/output.png)
